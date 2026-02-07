@@ -1,0 +1,107 @@
+.phone{
+    border-radius: 30px;
+    margin-left:35% ;
+    height: 500px;
+    inline-size: 300px;
+    border: 20px solid black;
+    overflow: hidden;
+    position: fixed;
+    background-color: rgb(79, 79, 240);
+    padding: 0px;
+    position:fixed ;
+}
+.carte{
+    width: 50px;
+    height: 60px;
+    border-radius: 15px;
+    padding: 10px;
+    margin-right: 50%;
+
+    
+}
+time{
+    margin-left: 5%;
+}
+.ecriture{
+    color: lightgrey;
+}
+img{
+    width: 140px;
+    height: 100px;
+    margin-left: 150%;
+
+}
+
+
+.clr{
+    background-color: white;
+    height: 380px;
+    border-radius: 15px;
+    margin-bottom: -10px;
+    padding-top: 20px;
+    
+}
+.kany{
+position: absolute;
+right:  48px;
+}
+
+
+.clr1{
+   background-color: white;
+    height: 80px;
+    border-radius: 15px; 
+    margin-bottom: 20%;
+}
+.alignement{
+    display: flex;
+    flex-direction: row;
+}
+.pointille{
+    justify-content: center;
+    margin-left: 40%;
+}
+.aln{
+    margin-top: 10%;
+}
+.cl1{
+    display: flex;
+    
+}
+.cl2{
+    display: flex;
+    margin-top: 15%;
+    gap: 40px;
+
+}
+.colonne{
+    margin-top: 20%;
+}
+    hr{
+        padding: 5px;
+        background-color: lightgray;
+        width: 100%;
+    }
+    body{
+        background-color: black;
+    }
+    .wifi{
+        margin-left: 10%;
+        
+    }
+    .signal{
+        margin-left: 53%;
+    }
+    .bande{
+        background-color: rgb(245, 244, 244);
+        width: 98%;
+        padding: 5px;
+        border: 5px solid white;
+    }
+    
+    
+    
+
+
+
+
